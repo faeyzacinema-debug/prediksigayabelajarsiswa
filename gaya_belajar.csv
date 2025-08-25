@@ -1,0 +1,128 @@
+NO,Nama ,Hobi,Pelajaran_Suka,Metode_belajar,Rekomendasi
+1,Syifa,Baca Buku,ENGLISH,Menghafal,Auditori
+2,Syafiq,Baca Buku,B.Inggris,Menghafal,Visual
+3,Daffa,Baca Buku,Matematika,Membaca,Visual
+4,Alif,Badminton,PJOK,Menulis,Kinestetik
+5,Hana,Badminton,Seni Budaya,Menulis,Kinestetik
+6,Bagas,Badminton,PJOK,Menulis,Kinestetik
+7,Gilang,Bermain Game,ENGLISH,Menghafal,Auditori
+8,Reno,Bermain Game,PJOK,Menulis,Kinestetik
+9,Fatih,Bermain Game,Seni Budaya,Menulis,Kinestetik
+10,Adhit,Bermain Game,PJOK,Menulis,Kinestetik
+11,Zidane,Bermain Game,PJOK,Menulis,Kinestetik
+12,Aqian,Bermain Game,PJOK,Membaca,Visual
+13,Zidane,Bermain Game,PJOK,Menghafal,Visual
+14,Arzachel,Bermain Game,Informatika,Menulis,Visual
+15,Ozil,Bermain Game,Informatika,Membaca,Visual
+16,Haikal,Bermain Game,Informatika,membaca,Visual
+17,Rafi,Bermain Game,Informatika,Menulis,Visual
+18,Humam,Bermain Game,Informatika,Menulis,Visual
+19,Arga,Bermain Game,Matematika,Membaca,Visual
+20,Hafidz,Bermain Game,PJOK,Membaca,Visual
+21,Kenzie,Bermain Game,Matematika,Membaca,Visual
+22,Ziyan,Bermain Game,PJOK,Menghafal,Visual
+23,Zafran,Bermain Game,Matematika,Menghafal,Visual
+24,Ami,Bermain Game,PKN,Menulis,Visual
+25,Salsa,Bermain Game,P5,Menulis,Kinestetik
+26,Syakira,Bermain Game,PJOK,Menulis,Kinestetik
+27,Vanesha,Bermain Game,PJOK,Menulis,Kinestetik
+28,Alvarez,Bermain Game,Civic,Membaca,Visual
+29,Ozil,Bermain Game,PJOK,Membaca,Visual
+30,Faeza,Bermain Game,PJOK,Menghafal,Auditori
+31,Najwa,Bermain Game,T2Q,Menghafal,Auditori
+32,Nayfa,Bermain Game,T2Q,menghafal,Auditori
+33,Farizi,Bermain Game,PJOK,Menulis,Kinestetik
+34,Hilya,Bermain Game,T2Q,Menghafal,Auditori
+35,Baim,Bermain Game,Seni budaya,Menulis,Kinestetik
+36,Fericha,Bermain Voli,IPAS,Menghafal,Visual
+37,Ayunda,Denger Musik,Informatika,Menghafal,Auditori
+38,Kalila ,Main,PJOK,Menulis,Kinestetik
+39,Tari,Main Basket,T2Q,Menghafal,Auditori
+40,Alya,Main benteng,Civic,Menghafal,Auditori
+41,Gaffar,Main bola,T2Q,Menghafal,Auditori
+42,Herjunot,Main bola,T2Q,Membaca,Auditori
+43,Keenan,Main bola,SKI,Menghafal,Auditori
+44,Alby,Main bola,T2Q,Menghafal,Auditori
+45,Alvian ,Main bola,B.arab,Menghafal,Auditori
+46,Raffa,Main bola,ENGLISH,Menghafal,Auditori
+47,Althaf,Main bola,PJOK,Membaca,Kinestetik
+48,Rasyid,Main bola,Math,Menghafal,Kinestetik
+49,Zaidan,Main bola,PJOK,Membaca,Kinestetik
+50,Rayyan,Main bola,PJOK,Menulis,Kinestetik
+51,Vean,Main bola,PJOK,Menulis,Kinestetik
+52,Arjuna,Main bola,PJOK,Menulis,Kinestetik
+53,Fatan,Main bola,PJOK,Menghafal,Kinestetik
+54,Dimas,Main bola,PJOK,Menulis,Kinestetik
+55,Arsha,Main bola,PJOK,Menulis,Kinestetik
+56,Darell,Main bola,PJOK,Menulis,Kinestetik
+57,Fayyadh,Main bola,PJOK,Menulis,Kinestetik
+58,Zain,Main bola,PJOK,Menulis,Kinestetik
+59,Naufal,Main bola,PJOK,Menulis,Kinestetik
+60,Praya,Main bola,PJOK,Menulis,Kinestetik
+61,Wafi,Main bola,PJOK,Menulis,Kinestetik
+62,Kamal,Main bola,PJOK,Menulis,Kinestetik
+63,Fahri,Main bola,PJOK,Menghafal,Kinestetik
+64,Zafran,Main bola,PJOK,Menulis,Kinestetik
+65,Zaid,Main bola,PJOK,Menghafal,Kinestetik
+66,Rafif,Main bola,PJOK,Membaca,Kinestetik
+67,Afaan,Main bola,PJOK,Menulis,Kinestetik
+68,Agha,Main bola,Matematika,Menulis,Kinestetik
+69,Haidar,Main bola,PJOK,Membaca,Kinestetik
+70,Zikri,Main bola,PJOK,Menulis,Kinestetik
+71,Al,Main bola,PJOK,Menghafal,Kinestetik
+72,Rafif,Main bola,IPAS,Menulis,Kinestetik
+73,Zahran,Main bola,PJOK,Menulis,Kinestetik
+74,Zidni,Main bola,PJOK,Menghafal,Kinestetik
+75,Atha,Main bola,T2Q,Membaca,Visual
+76,Tama,Main bola,PJOK,Menulis,Visual
+77,Khalid,Main bola,Matematika,Membaca,Visual
+78,Fathan,Main bola,Bahasa Indonesia,Membaca,Visual
+79,Aditya,Main bola,Informatika,Membaca,Visual
+80,Adlan,Main bola,Informatika,Membaca,Visual
+81,Danish,Main bola,Matematika,Membaca,Visual
+82,Hisyam,Main bola,Informatika,Membaca,Visual
+83,Akbar,Main bola ,PJOK,Menghafal,Kinestetik
+84,Fathan,Main bola ,PJOK,Menulis,Kinestetik
+85,Rio,Main bola ,PJOK,Membaca,Kinestetik
+86,Raihan,Main bola ,PJOK,Menghafal,Kinestetik
+87,Athala,Main bola ,Matematika,Membaca,Visual
+88,Nabila,Main sepeda,b Arab,Menghafal,Auditori
+89,Anin,Main Sepeda,Pramuka,Menulis,Kinestetik
+90,Nara,Membaca,Pramuka,Menghafal,Kinestetik
+91,Husain,membaca,Math,Membaca,Visual
+92,Azkia,Membaca,PAI,Menulis,Visual
+93,Anisa,Menggambar,Inggris,Menulis,Auditori
+94,Ihza,Menggambar,Informatika,Membaca,Visual
+95,Afiqah,Menggambar,B.Inggris,Menulis,Auditori
+96,Zara,Menggambar,Pramuka,Menghafal,Kinestetik
+97,Defandra,Menggambar,IPAS,Menulis,Visual
+98,Alfath,Menggambar,Bahasa Indonesia,Membaca,Visual
+99,Hasna,Menggambar,Informatika,Menulis,Visual
+100,Kaluna,Menggambar,Inggris,Membaca,Visual
+101,Humaira,Menggambar ,Seni Budaya,Menulis,Kinestetik
+102,Zahra,Menggambar ,P5,Menulis,Kinestetik
+103,Una,Menggambar ,SKI,Menulis,Visual
+104,Raisha,Menggambar ,Matematika ,Menulis,Visual
+105,Andita,Menggambar ,B.Inggris,Menulis,Visual
+106,Ayesha,menulis,Informatika,Menulis,Kinestetik
+107,Elisa,Merajut,Inggris,Menulis,Visual
+108,Zahra,menari,Seni Budaya,Menulis,Kinestetik
+109,Amira,menari,Informatika,Menghafal,Kinestetik
+110,Aira,Nonton Tv,PAI,menulis,Visual
+111,Sayfu,Nonton Tv,Informatika,Menghafal,Visual
+112,Freya,menyanyi,PJOK,Menghafal,Auditori
+113,Naya,menyanyi,B.Inggris,Menulis,Auditori
+114,Hilda,renang,B.Inggris,Menghafal,Auditori
+115,Aruna,Renang,Inggris,Menghafal,Auditori
+116,Hanan,renang,PJOK,Membaca,Kinestetik
+117,Mail,Renang,PJOK,Membaca,Kinestetik
+118,Agid,renang,B.Inggris,Menulis,Kinestetik
+119,Aqila,renang,Seni Budaya,Menulis,Kinestetik
+120,Jaida,Renang,P5,menulis,Kinestetik
+121,Syasya,Renang,Matematika ,Menulis,Kinestetik
+122,Aqila,Renang,Matematika ,Menulis,Kinestetik
+123,Khanza,Renang,Pramuka,Menulis,Kinestetik
+124,Rasya,renang,Civic,Membaca,Visual
+125,Naura,renang,IPAS,Menulis,Visual
+126,Arum,Taekwondo ,Informatika,Menghafal,Kinestetik
+127,Alif,Tidur,PJOK,Menulis,Kinestetik
