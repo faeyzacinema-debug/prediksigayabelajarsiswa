@@ -3,4 +3,3 @@ Pandas == 2.3.0
 Streamlit
 Scikit-learn
 Pip == 25.1.1
-desiciontreeclassifier
